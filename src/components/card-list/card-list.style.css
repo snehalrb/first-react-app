@@ -1,0 +1,10 @@
+.Clist{
+    width:90%;
+    margin: 0 auto;
+    display:grid;
+    grid-template-columns:25% 25% 25% 25%;
+    grid-gap: 5px;
+    
+}
+
+.Clist h2{border:1px solid #ccc; display: block; height:100%; margin:0; line-height:5em;}
